@@ -36,3 +36,4 @@ This repository is currently structured as follows.
         └── preprocess_data.py
     
 <img src="./Images/binary_classifier_code_structure.jpg" alt="drawing" width="800"/>
+<img src="poster.jpg" alt="drawing" width="800"/>
